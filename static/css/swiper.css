@@ -205,7 +205,7 @@
     rgba(0, 0, 0, 0)
   );
 }
-/* IE10 Windows Phone 8 Fixes */
+
 .swiper-container-wp8-horizontal,
 .swiper-container-wp8-horizontal > .swiper-wrapper {
   -ms-touch-action: pan-y;
@@ -692,6 +692,6 @@ button.swiper-pagination-bullet {
   backface-visibility: hidden;
 }
 .swiper-container-coverflow .swiper-wrapper {
-  /* Windows 8 IE 10 fix */
+  
   -ms-perspective: 1200px;
 }
